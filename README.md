@@ -1,6 +1,6 @@
 # Practical 12: CI/CD Pipeline with GitHub Actions
 
-[![CI Pipeline](https://github.com/riya038/practical11_24it037/actions/workflows/ci.yml/badge.svg)](https://github.com/riya038/practical11_24it037/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/riya038/practical12_24it037/actions/workflows/ci.yml/badge.svg)](https://github.com/riya038/practical12_24it037/actions/workflows/ci.yml)
 
 **Course:** Advanced Web Development Frameworks (ITUE301)  
 **Program:** B.Tech (IT / CE / CSE / AIML) — CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY (CHARUSAT)  
